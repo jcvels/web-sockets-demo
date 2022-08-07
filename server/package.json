@@ -1,0 +1,17 @@
+{
+  "name": "web-sockets-demo-server",
+  "version": "0.0.1",
+  "description": "Servidor demo WebSockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Jorge Pauvels <jcvels@uvcoding.com.ar>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
